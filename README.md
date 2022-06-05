@@ -5,4 +5,4 @@
 - 📫 How to reach me: telegram @dvdkitay
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![kitay GitHub stats](https://github-readme-stats.vercel.app/api?username=dvdkitay)](https://github.com/anuraghazra/github-readme-stats)
