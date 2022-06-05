@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on with big companies and startups
 - 📫 How to reach me: telegram @dvdkitay
 
-message_telegram(f'[runo_project][error] Server unavailable or returned no results. Status code: {res.status_code}')
-            break
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
