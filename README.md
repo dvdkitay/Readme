@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on with big companies and startups
 - 📫 How to reach me: telegram @dvdkitay
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-[![kitay GitHub stats](https://github-readme-stats.vercel.app/api?username=dvdkitay)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvdkitay&theme=default)
