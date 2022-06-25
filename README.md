@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on with big companies and startups
 - 📫 How to reach me: telegram @dvdkitay
 
-![](https://komarev.com/ghpvc/?username=user_name)
+![](https://komarev.com/ghpvc/?username=kitay)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvdkitay&theme=default)
